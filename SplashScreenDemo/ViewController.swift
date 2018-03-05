@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
        self.view.backgroundColor = UIColor.white
-       print("Hello Good mrng") 
+       print("Hello Good Morning") 
     }
 
     @IBAction func DemoButtonTapped(_ sender: UIButton) {
