@@ -12,13 +12,13 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-       self.view.backgroundColor = UIColor.blue
+       self.view.backgroundColor = UIColor.white
        print(self.view.frame) 
     }
 
     @IBAction func DemoButtonTapped(_ sender: UIButton) {
         
-      self.view.backgroundColor = .red
+      self.view.backgroundColor = .gray
         
         
   }
